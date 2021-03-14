@@ -1,4 +1,4 @@
-baseURL = "https://madelynkapfhammer.com"
+baseURL = "https://example.com"
 languageCode = "en"
 DefaultContentLanguage = "en"
 title = "Madelyn Kapfhammer"
@@ -20,7 +20,7 @@ description = "Student. Scientist. Software Engineer."
 profilePicture = "images/profile.jpg"
 keywords = ""
 favicon = "favicons/"
-customCss = ["css/custom.css", "css/styles.css"]
+customCss = ["css/custom.css"]
 customJs = []
 mainSections = ["post"]
 images = ["images/site-feature-image.png"]
