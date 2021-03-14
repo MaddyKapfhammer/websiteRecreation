@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>css on Madelyn Kapfhammer</title>
+    <link>https://madelynkapfhammer.com/tags/css/</link>
+    <description>Recent content in css on Madelyn Kapfhammer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 21 Oct 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://madelynkapfhammer.com/tags/css/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Making a Website is Hard</title>
+      <link>https://madelynkapfhammer.com/post/making-website/</link>
+      <pubDate>Wed, 21 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://madelynkapfhammer.com/post/making-website/</guid>
+      <description>I think as a computer science major it is a rite of passage to struggle when trying to make a customized website.</description>
+    </item>
+    
+  </channel>
+</rss>

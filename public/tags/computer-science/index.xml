@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Computer Science on Madelyn Kapfhammer</title>
+    <link>https://madelynkapfhammer.com/tags/computer-science/</link>
+    <description>Recent content in Computer Science on Madelyn Kapfhammer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 22 Oct 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://madelynkapfhammer.com/tags/computer-science/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Sometimes the majority isn&#39;t always right</title>
+      <link>https://madelynkapfhammer.com/post/cs203class/</link>
+      <pubDate>Thu, 22 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://madelynkapfhammer.com/post/cs203class/</guid>
+      <description>In the spring of 2020, my first semester at Allegheny College, I took a software engineering class in the computer science department.</description>
+    </item>
+    
+  </channel>
+</rss>

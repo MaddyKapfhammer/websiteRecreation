@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Researches on Madelyn Kapfhammer</title>
+    <link>https://madelynkapfhammer.com/research/</link>
+    <description>Recent content in Researches on Madelyn Kapfhammer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 22 Oct 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://madelynkapfhammer.com/research/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Predictive Wellness</title>
+      <link>https://madelynkapfhammer.com/research/vigor/</link>
+      <pubDate>Thu, 22 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://madelynkapfhammer.com/research/vigor/</guid>
+      <description>Allegheny Mozilla Fellows I work with Allegheny College&amp;rsquo;s Computer Science Department on the Allegheny Ethical CS initiative team.</description>
+    </item>
+    
+  </channel>
+</rss>

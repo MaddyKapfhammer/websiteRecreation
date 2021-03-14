@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>favorites on Madelyn Kapfhammer</title>
+    <link>https://madelynkapfhammer.com/tags/favorites/</link>
+    <description>Recent content in favorites on Madelyn Kapfhammer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 23 Oct 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://madelynkapfhammer.com/tags/favorites/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Some Spotify Recommendations</title>
+      <link>https://madelynkapfhammer.com/favorites/music/</link>
+      <pubDate>Fri, 23 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://madelynkapfhammer.com/favorites/music/</guid>
+      <description>It&amp;rsquo;s kind of like I&amp;rsquo;ve sold my soul to Spotify Obviously, this isn&amp;rsquo;t completely true, I do still have a soul, but wow I really do love spotify.</description>
+    </item>
+    
+    <item>
+      <title>My Reading List</title>
+      <link>https://madelynkapfhammer.com/favorites/reading/</link>
+      <pubDate>Thu, 22 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://madelynkapfhammer.com/favorites/reading/</guid>
+      <description>A Glimpse Into What I&amp;rsquo;ve Been Reading When I younger, I spent hours of my life begging my parents to buy me new books to read.</description>
+    </item>
+    
+  </channel>
+</rss>
