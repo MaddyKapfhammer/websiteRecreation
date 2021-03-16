@@ -1,13 +1,13 @@
 +++
 author = "Madelyn Kapfhammer"
-title = "Making a Website is Hard"
-date = "2020-10-21"
+title = "Don't Make the Same Mistakes I did When Creating Your Website'"
+date = "2021-3-16"
 description = "But eventually you'll figure it out"
 tags = [
-    "website",
-    "hugo",
-    "html",
-    "css",
+"website",
+"hugo",
+"html",
+"css",
 ]
 +++
 
@@ -20,34 +20,31 @@ I don't know why I thought that I would be different from everyone else who has 
 - Please please please check how mobile ready the template you are interested in is
 
   I think I had a list of ten themes that I _loved_ and almost all of them weren't mobile ready: something that was important to me, and should be important to you too.
+
   - You can do this through developer tools! If you use Google Chrome it's easy!
 
-      Use the keystroke `Ctrl+Shift+I`
+    Use the keystroke `Ctrl+Shift+I`
 
-      OR
+    OR
 
-      1. Select the three dots in the upper right hand corner of your browser
-      2. Select the `more tools` option
-      3. Select the `developer tools` option
+    1. Select the three dots in the upper right hand corner of your browser
+    2. Select the `more tools` option
+    3. Select the `developer tools` option
 
     The developer tools will open, allowing you to resize your screen! Test how reactive the theme you are interested in is to different screen sizes.
-
 - Knowledge of `html` and `css` are __semi-important__
 
   I started on my website journey with little-to-no knowledge of `html` and `css`, which made it difficult for me to understand how to customize the themes that I chose. So much so, that I had to switch my theme choice about halfway through developing my website
 
   - Check out the `style.css` file before you clone a theme and make sure you can understand the basics!
-  
   - When editing your `style.css` file, ensure that you make a new, custom `css` file in your folder! Most themes' GitHub repositiories will give information on how to do this!
-
   - Developer tools are also super helpful when trying to change fonts, colors, padding and more!
 
-      Use the keystroke `Ctrl+Shift+I` to open developer tools! Or follow the steps above!
+    Use the keystroke `Ctrl+Shift+I` to open developer tools! Or follow the steps above!
 
-      1. With developer tools open, click whatever object you are interested in changing (i.e. heading font, paragraph text, images)
-      2. Developer tools will give all information about that object, including, possibly most importantly **the file and line where the attributes of the object are located**
-      3. With the object information, change your `css` file where necessary
-
+    1. With developer tools open, click whatever object you are interested in changing (i.e. heading font, paragraph text, images)
+    2. Developer tools will give all information about that object, including, possibly most importantly **the file and line where the attributes of the object are located**
+    3. With the object information, change your `css` file where necessary
 - Use localhost when you're first making changes
 
   The beauty of using `Hugo` is that the changes you make can first be run locally, before deploying your website! I created my entire website, first without connecting it to my domain. This helped ensure that all bugs were removed before I deployed!
@@ -79,7 +76,6 @@ I don't know why I thought that I would be different from everyone else who has 
     Web Server is available at http://localhost:1313/ (bind address 127.0.0.1)
     Press Ctrl+C to stop
     ```
-  
   - Any change that you make in your repository, will update on localhost, as soon as the changes are **saved**
 
     ```
@@ -88,9 +84,11 @@ I don't know why I thought that I would be different from everyone else who has 
     Source changed "/home/mkapfhammer/website/website2/websiteTwo/quickstart/content/post/making-website.md": WRITE
     Total in 16 ms
     ```
-
   - Stop running your localhost at any time with the command `Ctrl+C`
-
 - Even with the learning curve that web development can throw at you, HAVE FUN
 
-    In between classes, studying, and papers, I have been working non-stop on this website. Even in the frustrating parts, where nothing worked, I pushed through the difficulties to get to the wonderful website that you are now seeing before you. It **takes time** to make a website, _don't give up_!
+  In between classes, studying, and papers, I have been working non-stop on this website. Even in the frustrating parts, where nothing worked, I pushed through the difficulties to get to the wonderful website that you are now seeing before you. It **takes time** to make a website, _don't give up_!
+
+### Deploying to Netlify
+
+When actually working to deploy my website I choose to use [Netlify](https://www.netlify.com/), a Git-based workflow and serverless platform that many developers use to build and deploy web apps. I had insignificant past experience using `Netlify` but was sure that I would be able to get my website up with _no problem_... unfortunately I was prety wrong. Please check out my post `Everything that went wrong when I was deploying my Hugo site to Netfliy and what you can do to make it go right` for more information on my struggles and how I ultimely deployed my website.
