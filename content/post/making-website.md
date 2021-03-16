@@ -1,7 +1,7 @@
 +++
 author = "Madelyn Kapfhammer"
 title = "Don't Make the Same Mistakes I did When Creating Your Website'"
-date = "2021-3-16"
+date = "2020-3-16"
 description = "But eventually you'll figure it out"
 tags = [
 "website",
