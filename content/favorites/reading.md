@@ -1,7 +1,7 @@
 +++
 author = "Madelyn Kapfhammer"
 title = "My Reading List"
-date = "2020-10-22"
+date = "2021-03-29"
 description = "A Glimpse Into What I've Been Reading"
 tags = [
     "read", "favorites"
@@ -12,9 +12,7 @@ tags = [
 
 When I younger, I spent _hours_ of my life begging my parents to buy me new books to read. My interests ranged from biographies to science fiction. Honestly, I would read anything that you put in my hands. As I have grown into the 20 year old that I am, of course my interests have shifted and changed, however I still do **love** to read. Ufortunately, being a full-time college student takes away most of my time to get lost in a novel, and I spend my evenings reading textbooks. Nevertheless, here are the things I've been reading over the past few months!
 
-## Current Read: Becoming by Michelle Obama
-
-I've only made it to page 10, so nothing to report so far, but I have heard **amazing things**!
+## Current Read: The 7 1/2 Deaths of Evelyn Hardcastle by Stuart Turton
 
 ## All Time Favorites (in no particular order)
 
@@ -32,9 +30,23 @@ I've only made it to page 10, so nothing to report so far, but I have heard **am
 
 ## Monthly Reads
 
+#### February
+
+- **Magpie Murders** by Anthony Horowitz
+
+#### January
+
+- **The Clockmaker's Daughter** by Kate Morton
+
+#### October, November, December
+
+I slacked off these months.... I'm sorry
+
 #### September
 
 - **The Soul of a New Machine** by Tracy Kidder
+
+- **Becoming Michelle Obama** by Michell Obama
 
 #### August
 
