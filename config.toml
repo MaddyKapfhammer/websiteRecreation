@@ -76,10 +76,10 @@ url = "mailto:maddy.kapfhammer@gmail.com"
   url = "/favorites/"
 
   [[menu.main]]
-  name = "Research"
+  name = "Experience"
   weight = 4
-  identifier = "research"
-  url = "/research/"
+  identifier = "experience"
+  url = "/experience/"
 
   [[menu.main]]
   name = "About"
