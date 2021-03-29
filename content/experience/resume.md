@@ -1,7 +1,8 @@
 +++
 author = "Madelyn Kapfhammer"
 title = "Resume"
-description = "T"
+date = "2021-3-15"
+description = "My education, work experience and skills"
 tags = [
 "resume", "experience", "skills",
 ]
