@@ -1,6 +1,6 @@
 +++
 title = "Vigor"
-description = "A Predictive Wellness for Teaching Ethics of Big Data"
+description = "A predictive wellness tool for teaching the ethics of big data"
 date = "2021-03-29"
 aliases = ["artificial intelligence","software", "predictive wellness", "data analytics"]
 author = "Madelyn Kapfhammer"
