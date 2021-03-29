@@ -1,7 +1,7 @@
 +++
-title = "Predictive Wellness"
-description = "Predictive Wellness"
-date = "2020-10-22"
+title = "Vigor"
+description = "A Predictive Wellness for Teaching Ethics of Big Data"
+date = "2021-03-29"
 aliases = ["artificial intelligence","software", "predictive wellness", "data analytics"]
 author = "Madelyn Kapfhammer"
 +++
