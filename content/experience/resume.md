@@ -1,7 +1,6 @@
 +++
 author = "Madelyn Kapfhammer"
 title = "Resume"
-date = "2020-10-23"
 description = "T"
 tags = [
 "resume", "experience", "skills",
@@ -18,7 +17,7 @@ maddy.kapfhammer@gmail.com
 
 ## EDUCATION
 
-### Bachelor of Science
+**Bachelor of Science**
 
 Biology and Computer Science
 
@@ -26,7 +25,7 @@ Allegheny College GPA: 3.913
 
 Anticipated Graduation May 2022
 
-### Cochranton High School
+**Cochranton High School**
 
 Class Valedictorian GPA: 4.0
 
@@ -34,7 +33,7 @@ Graduated June 2018
 
 ## COURSES
 
-### Laboratory Courses
+**Laboratory Courses**
 
 - Microbiology and Immunology
 - Natural Field History
@@ -48,7 +47,7 @@ Graduated June 2018
 - Bioinformatics
 - Algorithm Analysis
 
-### Mathematical Courses
+**Mathematical Courses**
 
 - Single-Variable Calculus
 - Multi-Variable Calculus
@@ -56,13 +55,13 @@ Graduated June 2018
 
 ## TECHNICAL & SCIENTIFIC SKILLS
 
-### Programming Languages:
+**Programming Languages:**
 Python, Java, R, JavaScript, LaTeX
 
-### Text Editors:
+**Text Editors:**
 Microsoft Visual Studio Code, Atom
 
-### Developer Toops and Frameworks:
+**Developer Toops and Frameworks:**
 
 - Linux
 - Git
@@ -83,17 +82,17 @@ Microsoft Visual Studio Code, Atom
 
 ## RELEVANT EXPERIENCE
 
-### Software Engineer
+**Software Engineer**
 
-_Allegheny College CS Department_ **May 2020 to December 2020**
+_Allegheny College CS Department, May 2020 to December 2020_
 
 - Implemented a predictive wellness tool, Vigor, which utilizes multiple datasets, classification algorithms and web applications to asses the health risks of an individual
 - Funded by Mozilla Foundation's Responsible Computer Science Challenge to implement ethics into courses at Allegheny College
 - Worked with and advised by Dr. Janyl Jumadinova
 
-### Technical Leader
+**Technical Leader**
 
-_Allegheny College CS Department_ **August 2020 to December 2020**
+_Allegheny College CS Department, August 2020 to December 2020_
 
 - Assisted, advised and helped students in Allegheny's Computer Science Department
 - Performed tasks relating to coding basics, programming best practices, code review, and computer science principles
@@ -101,20 +100,20 @@ _Allegheny College CS Department_ **August 2020 to December 2020**
 
 ## PERSONAL PROJECTS
 
-### PyOhio 2019
+**PyOhio 2019**
 
-_Find Your Feature Fit_ **Presenter**
+Presenter, Find Your Feature Fit
 
 - Co-presented a stark comparison of VS Code and VIm text editors for Python programming
 
-### Gator-Cogitate
+**Gator-Cogitate**
 
-**Project Manager**
+Project Manager
 
 - Developed a tool which determines an individual's contribution to a GitHub repository and the ability of a group to work as a team
 
-### ActionsSpeak
+**ActionsSpeak**
 
-**Main Developer**
+Main Developer
 
 - Implemented a program to analyze GitHub Actions workflow files and determine trends of CI over the course of a project timeline
