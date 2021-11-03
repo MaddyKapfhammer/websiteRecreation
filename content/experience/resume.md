@@ -8,4 +8,4 @@ tags = [
 ]
 +++
 
-![Resume](/static/images/resume.jpg)
+{{< figure src="/pictures/resume.png">}}
