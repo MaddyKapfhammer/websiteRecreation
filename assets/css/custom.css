@@ -272,13 +272,13 @@ a:active {
 }
 
 .sidebar .logo-title {
-    font-family: 'Bebas Neue', cursive;
+    font-family: 'Bebas Neue', sans-serif;
     text-align: center;
     padding-top: 240px;
 }
 
 .sidebar .logo-title .description {
-    font-family: 'Bebas Neue', cursive;
+    font-family: 'Bebas Neue', sans-serif;
     font-weight: bold;
     font-size: 22px;
 }
@@ -340,7 +340,7 @@ a:active {
 
 .post .post-title h1 {
     text-transform: uppercase;
-    font-family: 'Bebas Neue', cursive;
+    font-family: 'Bebas Neue', sans-serif;
     font-size: 30px;
     letter-spacing: 5px;
     line-height: 1;
@@ -348,7 +348,7 @@ a:active {
 
 .post .post-title h2 {
     text-transform: uppercase;
-    font-family: 'Bebas Neue', cursive;
+    font-family: 'Bebas Neue', sans-serif;
     letter-spacing: 1px;
     font-size: 28px;
     line-height: 1;
@@ -358,7 +358,7 @@ a:active {
 
 .post .post-title h3 {
     text-transform: uppercase;
-    font-family: 'Bebas Neue', cursive;
+    font-family: 'Bebas Neue', sans-serif;
     letter-spacing: 1px;
     line-height: 1;
     font-weight: 600;
@@ -558,7 +558,7 @@ a:active {
 }
 
 .list-with-title {
-    font-family: 'Bebas Neue', cursive;
+    font-family: 'Bebas Neue', sans-serif;
     font-size: 30px;
     margin: 30px;
     padding: 0;
@@ -662,7 +662,7 @@ a:active {
 }
 
 .about h3 {
-    font-family: 'Bebas Neue', cursive;
+    font-family: 'Bebas Neue', sans-serif;
     font-size: 24px;
 }
 
@@ -672,7 +672,7 @@ a:active {
 }
 
 .links h3 {
-    font-family: 'Bebas Neue', cursive;
+    font-family: 'Bebas Neue', sans-serif;
     font-size: 24px;
 }
 
@@ -690,7 +690,7 @@ a:active {
 }
 
 .read_more {
-    font-family: 'Bebas Neue', cursive;
+    font-family: 'Bebas Neue', sans-serif;
     font-size: 16px;
 }
 
