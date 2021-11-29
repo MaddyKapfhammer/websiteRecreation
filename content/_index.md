@@ -2,6 +2,8 @@
 author = "Madelyn Kapfhammer"
 +++
 
+<br />
+
 # You Can Call Me Maddy
 
 Hello! It's great to meet you! My name is Madelyn Kapfhammer, but _please_ call me Maddy (all of my friends do). I am a senior at [Allegheny College](https://allegheny.edu/) double majoring in **biology** and **computer science** and minoring in **global health studies**. Yes, it is an interesting and difficult combination, but I have a unique passion for all of these fields and am so excited to continue my journey into the fields of **bioinformatics** and **data analytics**. Along with being a student, I am a daughter, Constant Comment tea _lover_, _avid_ Spotify user, sincere friend, and foodie _extraordinaire_! At Allegheny, I am a technical leader, and a software engineer for the computer science department, public health informatics lab manager, biology teaching assistant, engaged student, and big fan of the classic brick streets.
