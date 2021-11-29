@@ -44,7 +44,7 @@ html {
 
 body {
     color: var(--body-color);
-    font-family: 'Bebas Neue', cursive;
+    font-family: 'Bebas Neue', sans-serif;
     font-size: 15px;
     width: 100%;
     margin: 0 auto 30px auto;
