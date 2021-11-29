@@ -44,7 +44,7 @@ html {
 
 body {
     color: var(--body-color);
-    font-family: 'M PLUS 1p', sans-serif;
+    font-family: 'Bebas Neue', cursive;
     font-size: 15px;
     width: 100%;
     margin: 0 auto 30px auto;
@@ -54,7 +54,7 @@ body {
 p {
     line-height: 1.9em;
     font-weight: 400;
-    font-size: 20px;
+    font-size: 22px;
 }
 
 a {
@@ -192,7 +192,7 @@ a:active {
     right: 0;
     z-index: 3;
     background-color: var(--top-color);
-    height: 60px;
+    height: 78px;
     border-bottom: 1px solid var(--border-color);
 }
 
@@ -200,7 +200,7 @@ a:active {
     list-style: none;
     padding: 4px 30px;
     float: left;
-    font-size: 16px;
+    font-size: 24px;
     display: block;
     width: calc(100% - 30px);
 }
@@ -234,7 +234,7 @@ a:active {
 .page-top .information {
     float: right;
     padding-top: 12px;
-    padding-right: 20px;
+    padding-right: 24px;
 }
 
 .page-top .information .avatar {
@@ -278,7 +278,7 @@ a:active {
 }
 
 .sidebar .logo-title .description {
-    font-family: 'M PLUS 1p', sans-serif;
+    font-family: 'Bebas Neue', cursive;
     font-weight: bold;
     font-size: 22px;
 }
@@ -311,7 +311,7 @@ a:active {
 .sidebar .social-links {
     list-style: none;
     padding: 0;
-    font-size: 14px;
+    font-size: 24px;
     text-align: center;
 }
 
@@ -321,7 +321,7 @@ a:active {
 
 .sidebar .social-links li {
     display: inline;
-    padding: 0 4px;
+    padding: 0 5px;
     line-height: 0;
 }
 
@@ -415,7 +415,7 @@ a:active {
 
 .post .post-footer .meta .info {
     float: left;
-    font-size: 12px;
+    font-size: 16px;
     font-weight: bold;
     margin-bottom: 1em;
     color: var(--footer-color);
@@ -536,7 +536,7 @@ a:active {
 .footer {
     clear: both;
     text-align: center;
-    font-size: 10px;
+    font-size: 20px;
     margin: 0 auto;
     bottom: 0;
     position: absolute;
@@ -559,7 +559,7 @@ a:active {
 
 .list-with-title {
     font-family: 'Bebas Neue', cursive;
-    font-size: 24px;
+    font-size: 30px;
     margin: 30px;
     padding: 0;
 }
@@ -570,7 +570,7 @@ a:active {
 }
 
 .list-with-title .listing-title {
-    font-size: 32px;
+    font-size: 40px;
     color: var(--heading-color);
     font-weight: 600;
     line-height: 2.2em;
