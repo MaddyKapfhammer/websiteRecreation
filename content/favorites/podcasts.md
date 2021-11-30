@@ -1,7 +1,7 @@
 +++
 title = "Podcasts, Please"
 description = "Check out what I've been listening to"
-date = "2020-10-23"
+date = "2021-11-30"
 aliases = ["podcasts","spotify"]
 author = "Madelyn Kapfhammer"
 +++
