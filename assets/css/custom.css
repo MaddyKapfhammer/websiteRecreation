@@ -310,8 +310,8 @@ a:active {
 
 .sidebar .social-links {
     list-style: none;
-    padding: 0;
-    font-size: 24px;
+    padding: 10;
+    font-size: 20px;
     text-align: center;
 }
 
