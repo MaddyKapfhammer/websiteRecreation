@@ -1,7 +1,7 @@
 +++
 author = "Madelyn Kapfhammer"
 title = "Under Society's Skin: The Implications of Bio-Art"
-date = "2020-2-09"
+date = "2020-02-09"
 description = "Sometimes being a female "
 tags = [
     "Bio-art", "Society", "Ethics"

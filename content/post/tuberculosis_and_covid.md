@@ -1,0 +1,14 @@
++++
+author = "Madelyn Kapfhammer"
+title = "Finding connections between disease: increasing risk factors associated with tuberculosis and the novel coronavirus"
+date = "2020-12-01"
+description = ""
++++
+
+Since the emergence of SARS-CoV-2 in Wuhan, China, in December 2019, the novel coronavirus has caused a major global health issue. Over 43,000 patients have been infected with this disease, and transmission is continuing to increase in most regions of the world. SARS-CoV-2—referred to as COVID-19 by the public—is a severe acute respiratory syndrome that can seriously affect the lungs. The emergence of COVID-19 provides a paramount risk to tuberculosis (TB) patients and individuals at risk of tuberculosis. While Mycobacterium tuberculosis infection can present in many forms, it manifests mainly as pulmonary tuberculosis, affecting the lungs. Just as individuals with HIV are at higher risk for TB infection, it may be the case that SARS-CoV-2 patients can also be at a higher risk.
+
+As both coronavirus and tuberculosis disproportionately affect the lungs, the co-infection of these diseases is a considerable risk factor. Current research displays that COVID-19 often presents in patients with pneumonia-like symptoms, which compromises the integrity of the alveoli of the lungs. With compromised alveoli, Mycobacterium tuberculosis has an increased ability to form tubercles and thus develop tuberculosis disease in addition to COVID-19. Tuberculosis also presents with compromised lung integrity, which can permit increase SARS-CoV-2 infection and development.
+
+As SARS-CoV-2 has a high risk of infection, and possibly severe symptoms, management of this disease is essential. While knowledge of the novel coronavirus has only begun to be developed, high-income countries are suited to deal with the virulent nature of the disease. Hospitals and treatment facilities can isolate patients and have proper protective equipment for health care workers. However, there is a lack of these resources, including qualified physicians, in low and middle-income countries. This indicates a disproportionate disease burden of COVID-19 on individuals with low socioeconomic status, which is also the case for tuberculosis infection.
+
+While there is much to learn both about SARS-CoV-2 and tuberculosis infection, co-infection could be a significant risk factor. As both of these diseases affect the respiratory tract, the infection of one disease can disproportionately select for infection of the other. Infection rates and available treatment and precautions also indicate that COVID-19 could significantly affect individuals in low and middle-income countries, as tuberculosis does. While researchers continue to learn more about the novel coronavirus, it is essential to understand how it affects already burdened communities, including tuberculosis patients.
