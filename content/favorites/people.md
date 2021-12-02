@@ -1,6 +1,6 @@
 +++
 author = "Madelyn Kapfhammer"
-title = "Meet the People Who Have Change My Life"
+title = "Meet the People Who Have Changed My Life"
 date = "2021-11-30"
 description = "A collection of my favorite photos, memories, and people"
 tags = [
