@@ -37,7 +37,7 @@ I don't know why I thought that I would be different from everyone else who has 
   I started on my website journey with little-to-no knowledge of `html` and `css`, which made it difficult for me to understand how to customize the themes that I chose. So much so, that I had to switch my theme choice about halfway through developing my website
 
   - Check out the `style.css` file before you clone a theme and make sure you can understand the basics!
-  - When editing your `style.css` file, ensure that you make a new, custom `css` file in your folder! Most themes' GitHub repositiories will give information on how to do this!
+  - When editing your `style.css` file, ensure that you make a new, custom `css` file in your folder! Most themes' GitHub repositories will give information on how to do this!
   - Developer tools are also super helpful when trying to change fonts, colors, padding and more!
 
     Use the keystroke `Ctrl+Shift+I` to open developer tools! Or follow the steps above!
@@ -91,4 +91,4 @@ I don't know why I thought that I would be different from everyone else who has 
 
 ### Deploying to Netlify
 
-When actually working to deploy my website I choose to use [Netlify](https://www.netlify.com/), a Git-based workflow and serverless platform that many developers use to build and deploy web apps. I had insignificant past experience using `Netlify` but was sure that I would be able to get my website up with _no problem_... unfortunately I was prety wrong. Please check out my post `Everything that went wrong when I was deploying my Hugo site to Netfliy and what you can do to make it go right` for more information on my struggles and how I ultimely deployed my website.
+When actually working to deploy my website I choose to use [Netlify](https://www.netlify.com/), a Git-based workflow and serverless platform that many developers use to build and deploy web apps. I had insignificant past experience using `Netlify` but was sure that I would be able to get my website up with _no problem_... unfortunately I was pretty wrong. Please check out my post `Everything that went wrong when I was deploying my Hugo site to Netfliy and what you can do to make it go right` for more information on my struggles and how I ultimately deployed my website.
